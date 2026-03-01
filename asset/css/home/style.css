@@ -111,6 +111,11 @@
     display: flex;
     gap: 25px;
     font-size: 28px;
+      
+}
+
+.social a {
+  transition:0.3s;
 }
 
 .meena-image {
