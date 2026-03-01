@@ -35,6 +35,10 @@
     font-size: 20px;
 }
 
+.nav-links a:hover{
+    color:#ff8c1a ;
+}
+
 .theme {
     font-size: 18px;
     cursor: pointer;
@@ -104,6 +108,10 @@
     border-radius: 8px;
     cursor: pointer;
     font-size: 18px;
+}
+.btn:hover{
+    background:  #ff8c1a;
+    color: white;
 }
 
 .social {
